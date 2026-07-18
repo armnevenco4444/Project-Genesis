@@ -172,3 +172,5 @@ Foco na jogabilidade e na progressão.
 Criar um jogo que faça o jogador sentir que está a desenvolver e a explorar o próprio videojogo.
 
 Cada atualização deve tornar o mundo maior, mais vivo e mais interessante.
+
+Quanto mais poder tens para moldar um mundo, mais difícil se torna separar-te dele.
